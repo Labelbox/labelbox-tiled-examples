@@ -15,3 +15,4 @@ Tiled Imagery in Labelbox is a Slippy Map tool that you can use for labeling map
 - GeoJSON, ESRI Shapefile vector data
 - Multi-spectral and RGB satellite imagery
 
+The JSONs in this repo are in the correct format for uploading to Labelbox and serve as examples for tile layers that have been tiled and added as an `alternativeLayerUrl`. The last `tileLayerUrl` in the JSON corresponds with the geospatial data that is now in s3 after it was tiled.
